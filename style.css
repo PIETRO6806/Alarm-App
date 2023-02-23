@@ -1,0 +1,19 @@
+#square1, #square2{
+    display: inline-block;
+}
+
+#relogio{
+    text-align: center;
+    margin-top: 2%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
+
+#setar{
+    display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
